@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>General Business - Amazing FBA - Grow your 7-Figure Amazon Business</title>
+	<atom:link href="https://amazingfba.com/category/general-business/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amazingfba.com/category/general-business/</link>
+	<description>Amazon Coach &#38; Mastermind Convenor</description>
+	<lastBuildDate>Tue, 07 Jan 2025 18:41:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/amazingfba.com/wp-content/uploads/2019/03/Amazing-FBA-new-logo-no-white-background-1-e1656858629506.png?fit=150%2C150&#038;ssl=1</url>
+	<title>General Business - Amazing FBA - Grow your 7-Figure Amazon Business</title>
+	<link>https://amazingfba.com/category/general-business/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Do you sell private label or custom products on Amazon UK, USA or Europe? Or are you gearing up to do it? &lt;br /&gt;
+&lt;br /&gt;
+If you are struggling to grow sales, seeing profits erode and feel a long way from a sellable valuable business, we can help. If you&#039;re already killing it, why not grow faster and make even more cash? &lt;br /&gt;
+Either way, you&#039;re in the right place. &lt;br /&gt;
+&lt;br /&gt;
+Our experts answer these questions and more - experts like Greg Mercer of Jungle Scout, Will Tjernlund, Manuel Becvar, Chris Green, Kevin King, and many many more. &lt;br /&gt;
+&lt;br /&gt;
+Whether you are trying to get Amazon product research right; help sourcing from China; optimizing Amazon listings; dealing with  Amazon PPC (aka Amazon ads) - we&#039;ve got you covered!&lt;br /&gt;
+&lt;br /&gt;
+If you&#039;re UK based and you want to sell in UK or USA; and if you&#039;re US based and you&#039;re curious about - or selling in - UK or Europe, you can&#039;t afford to miss the detailed insights you&#039;ll get.</itunes:summary>
+	<itunes:author>Michael Veazey</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Michael Veazey</itunes:name>
+	</itunes:owner>
+	<copyright>&#xA9;Michael Veazey 2015-2022</copyright>
+	<podcast:license>&#xA9;Michael Veazey 2015-2022</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>Amazing FBA Amazon and ECommerce Podcast, for Amazon Private Label Sellers, Shopify, Magento or Woocommerce business owners, and other e-commerce sellers and digital entrepreneurs.</itunes:subtitle>
+	<image>
+		<title>General Business - Amazing FBA - Grow your 7-Figure Amazon Business</title>
+		<url>https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg</url>
+		<link>https://amazingfba.com/category/general-business/</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+	<googleplay:category text="Business"/>
+	<itunes:category text="Business">
+		<itunes:category text="Marketing" />
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Entrepreneurship" />
+	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>London, England</rawvoice:location>
+	<podcast:location>London, England</podcast:location>
+	<podcast:podping usesPodping="true" />
+	<rawvoice:subscribe feed="https://amazingfba.com/category/general-business/feed/" itunes="http://itunes.apple.com/ug/podcast/amazing-fba/id1030237683" spotify="https://open.spotify.com/show/32Cryk51sxVlF03B38UeoJ" amazon_music="https://music.amazon.co.uk/podcasts/3237ef11-0180-45a2-adff-2b4ab89267b5/amazing-fba-amazon-and-ecommerce-podcast-for-amazon-private-label-sellers-shopify-magento-or-woocommerce-business-owners-and-other-e-commerce-sellers-and-digital-entrepreneurs"></rawvoice:subscribe>
+<site xmlns="com-wordpress:feed-additions:1">203239326</site>	<item>
+		<title>Common eCommerce Mistakes And How To Avoid Them</title>
+		<link>https://amazingfba.com/common-ecommerce-mistakes-and-how-to-avoid-them/</link>
+					<comments>https://amazingfba.com/common-ecommerce-mistakes-and-how-to-avoid-them/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 18:41:14 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=15095</guid>
+
+					<description><![CDATA[<p>Running an eCommerce business can be a fantastic option these days &#8211; it’s what customers want, and it comes with plenty of benefits. However, just because it might seem like quite a simple thing to do as long as you’ve got a website and some social media happening, the truth is that there’s just as [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/common-ecommerce-mistakes-and-how-to-avoid-them/">Common eCommerce Mistakes And How To Avoid Them</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/common-ecommerce-mistakes-and-how-to-avoid-them/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15095</post-id>	</item>
+		<item>
+		<title>Macbook Air Unboxing</title>
+		<link>https://amazingfba.com/unboxing-my-marvellous-macbook/</link>
+					<comments>https://amazingfba.com/unboxing-my-marvellous-macbook/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Tue, 20 Aug 2024 06:24:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14974</guid>
+
+					<description><![CDATA[<p>Hey folks, Michael from AmazingFBA. I just realized I was missing a golden e commerce opportunity here. It&#8217;s kind of e commerce, I ordered something online, which is the latest the MacBook Air. So I&#8217;ve had a MacBook Pro And then a second MacBook Pro. And this time I&#8217;m going for a MacBook Air. I&#8217;ve [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/unboxing-my-marvellous-macbook/">Unboxing my Marvellous Macbook</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/unboxing-my-marvellous-macbook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/Unboxing_my_Marvellous_Macbook.mp3" length="3109305" type="audio/mpeg" />
+
+			<itunes:subtitle>Hey folks, Michael from AmazingFBA. I just realized I was missing a golden e commerce opportunity here. It&#039;s kind of e commerce, I ordered something online, which is the latest the MacBook Air. So I&#039;ve had a MacBook Pro And then a second MacBook Pro.  ...</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+<br />
+<br />
+<br />
+<br />
+Hey folks, Michael from AmazingFBA. I just realized I was missing a golden e commerce opportunity here. It's kind of e commerce, I ordered something online, which is the latest the MacBook Air. So I've had a MacBook Pro And then a second MacBook Pro.<br />
+<br />
+<br />
+<br />
+And this time I'm going for a MacBook Air. I've kind of been forced into buying it because the old one slowed down. But nevertheless, buying a Mac is a serious, expensive hobby. guess I'm kind of excited as well. Nervous and excited because it's the nerve centre of all my business operations.<br />
+<br />
+<br />
+<br />
+Not that I'm running a million dollar empire, but I could be one day from this computer. And so Here's the unboxing video that I'd like to show you.<br />
+<br />
+<br />
+<br />
+So I've actually taken out the stuff already because it only just occurred to me.<br />
+<br />
+<br />
+<br />
+First thing to note is that Apple does a beautiful job of packaging.<br />
+<br />
+<br />
+<br />
+It's really thick, sturdy, lovely packaging. It's very clean. It's just got a very, very minimalist picture on, which goes with their brand. Apple's minimalist brand.<br />
+<br />
+<br />
+<br />
+And then. We've got the computer inside, which is lovingly packaged. I pull that up, look at that, the design detail, I can pull it up. And of course then it's got everything, which, which I've taken out.<br />
+<br />
+<br />
+<br />
+So that was put in here. This has got it had its own little, little thing that I've thrown away. So that went neatly. And now I've already messed that up, but I'm about to unlock the actual MacBook itself.<br />
+<br />
+<br />
+<br />
+Now, another thing they do,<br />
+<br />
+<br />
+<br />
+you can see they've wrapped it carefully and lovingly in a piece of paper. It's a waxed blue paper, I guess it's to protect it against getting any kind of dirt on it at all.<br />
+<br />
+<br />
+<br />
+Let's just take a moment to admire The beauty of the thing. Again, it's a design classic. They made it very, very sleek. It's a MacBook Air. So I guess it's not quite the same wedge shape as the classic one, but it has got that classic shape. Now what they've designed it again, this is more of an experiential thing than necessary. When you open it, it turns on so we can take the screen protection on that automatically turns on with its logo.<br />
+<br />
+<br />
+<br />
+So they're doing all the right things at Apple. They immediately get you into the experience of using the computer. Now, the first thing I'm going to need to do Is to move it from one computer to another.<br />
+<br />
+<br />
+<br />
+So I've done this before. I've moved all my data from one MacBook to another and it went pretty well and I'll try a different way of doing it today with an ethernet cable. The point is that they make it easier to start. And to use from the very beginning and to transition from a similar product to another one.<br />
+<br />
+<br />
+<br />
+So keeping you within the family of products, if you will.<br />
+<br />
+<br />
+<br />
+So stay tuned, I will give you a few updates on this, but it's just an example of creating a beautiful consumer experience, unboxing and hitting the ground running built into the actual products itself.<br />
+<br />
+<br />
+<br />
+So the simple challenge for you is if you create physical products, how can you create that wow factor.<br />
+<br />
+<br />
+<br />
+Don't forget the packaging, the unboxing experience itself. Is your packaging of the product, does it indicate that you love and care for the product?<br />
+<br />
+<br />
+<br />
+And of course, can you hit the ground running using the product even, and especially with a complex consumer product like a home computer, can you make that easy to hit the ground running ?<br />
+<br />
+<br />
+<br />
+That's kind of what part of the USP of Apple as a company, plus beautiful design. What is that equivalent for you and your products and your business?<br />
+<br />
+<br />
+<br />
+]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>01</itunes:season>
+		<podcast:season>01</podcast:season>
+		<itunes:episode>593</itunes:episode>
+		<podcast:episode>593</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:14</itunes:duration>
+		<podcast:transcript url="https://amazingfba.com/wp-content/uploads/2024/08/Unboxing-my-Marvellous-Macbook.txt" type="text/plain" rel="captions" />
+<post-id xmlns="com-wordpress:feed-additions:1">14974</post-id>	</item>
+		<item>
+		<title>If your product sucks, stop doing this&#8230;</title>
+		<link>https://amazingfba.com/if-your-product-sucks-stop-doing-this/</link>
+					<comments>https://amazingfba.com/if-your-product-sucks-stop-doing-this/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2024 04:59:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14909</guid>
+
+					<description><![CDATA[<p>A lot of businesses obssess about marketing their product or service. A few survey their customers incessantly to find out what they think. But if your product or service is obviously broken, you need to stop doing that and do this instead! A lot of businesses obssess about marketing their product or service. A few [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/if-your-product-sucks-stop-doing-this/">If your product sucks, stop doing this&#8230;</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/if-your-product-sucks-stop-doing-this/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/If_your_product_sucks_dont_worry_about_marketing_or_surveys-fix_the_product.mp3" length="4841942" type="audio/mpeg" />
+
+			<itunes:subtitle>A lot of businesses obssess about marketing their product or service. A few survey their customers incessantly to find out what they think. But if your product or service is obviously broken, you need to stop doing that and do this instead!</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+A lot of businesses obssess about marketing their product or service. A few survey their customers incessantly to find out what they think. But if your product or service is obviously broken, you need to stop doing that and do this instead!<br />]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>01</itunes:season>
+		<podcast:season>01</podcast:season>
+		<itunes:episode>587</itunes:episode>
+		<podcast:episode>587</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:46</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">14909</post-id>	</item>
+		<item>
+		<title>Avoiding Layoffs with 4 Proven Methods</title>
+		<link>https://amazingfba.com/avoiding-layoffs-with-4-proven-methods/</link>
+					<comments>https://amazingfba.com/avoiding-layoffs-with-4-proven-methods/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Thu, 25 Jul 2024 15:11:11 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[Running An Ecommerce Business]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[team]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14879</guid>
+
+					<description><![CDATA[<p>Layoffs are never fun, but sometimes avoiding layoffs seems impossible. After all, paying competitive salaries to your staff is hardly all you need to spend to keep people around. You need insurance, training measures, daily resources, functional utilities, and equipment. All of that, of course, tends to pay for itself given the hard work of [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/avoiding-layoffs-with-4-proven-methods/">Avoiding Layoffs with 4 Proven Methods</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/avoiding-layoffs-with-4-proven-methods/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14879</post-id>	</item>
+		<item>
+		<title>&#8220;You Can&#8217;t Get There From Here&#8221; &#8211; a Classic Mindset Malfunction</title>
+		<link>https://amazingfba.com/you-cant-get-there-from-here-a-classic-mindset-malfunction/</link>
+					<comments>https://amazingfba.com/you-cant-get-there-from-here-a-classic-mindset-malfunction/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Tue, 23 Jul 2024 06:00:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14866</guid>
+
+					<description><![CDATA[<p>There&#8217;s an old Somerset saying &#8220;You can&#8217;t there from here.&#8221; Entertaining &#8211; but not helpful. Sounds like a bad joke &#8211; and it is &#8211; but it&#8217;s actually something we all say to ourselves at times. In this humorous Mindset Moment, Michael explores whether in fact you might have this mentality blocking you too. There&#8217;s [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/you-cant-get-there-from-here-a-classic-mindset-malfunction/">&#8220;You Can&#8217;t Get There From Here&#8221; &#8211; a Classic Mindset Malfunction</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/you-cant-get-there-from-here-a-classic-mindset-malfunction/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/Mindset_monday_you_cant_get_there_from_here.mp3" length="9664970" type="audio/mpeg" />
+
+			<itunes:subtitle>There&#039;s an old Somerset saying &quot;You can&#039;t there from here.&quot; Entertaining - but not helpful. Sounds like a bad joke - and it is - but it&#039;s actually something we all say to ourselves at times.     In this humorous Mindset Moment,</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+There's an old Somerset saying "You can't there from here." Entertaining - but not helpful. Sounds like a bad joke - and it is - but it's actually something we all say to ourselves at times. <br />
+<br />
+<br />
+<br />
+In this humorous Mindset Moment, Michael explores whether in fact you might have this mentality blocking you too. <br />]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>578</itunes:episode>
+		<podcast:episode>578</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:30</itunes:duration>
+		<podcast:transcript url="https://transcripts.blubrry.com/amazingfba/132882932-37107.srt" language="en" type="application/srt" rel="captions" />
+<post-id xmlns="com-wordpress:feed-additions:1">14866</post-id>	</item>
+		<item>
+		<title>The Secret To A successful Ecommerce Business</title>
+		<link>https://amazingfba.com/the-secret-to-a-successful-ecommerce-business/</link>
+					<comments>https://amazingfba.com/the-secret-to-a-successful-ecommerce-business/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey, Amazing FBA]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2024 16:57:30 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14862</guid>
+
+					<description><![CDATA[<p>Are you thinking about setting up your own e-commerce business? If so, then it’s important to explore everything that it will take to make your business a success. There are lots of possibilities worth exploring here. So, let’s dive into some of the key factors that you should keep in mind.  Professional Support First, you [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/the-secret-to-a-successful-ecommerce-business/">The Secret To A successful Ecommerce Business</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/the-secret-to-a-successful-ecommerce-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14862</post-id>	</item>
+		<item>
+		<title>Ready to Be Your Own Boss? 10 Simple Steps to Buying an E-commerce Business</title>
+		<link>https://amazingfba.com/ready-to-be-your-own-boss-10-simple-steps-to-buying-an-e-commerce-business/</link>
+					<comments>https://amazingfba.com/ready-to-be-your-own-boss-10-simple-steps-to-buying-an-e-commerce-business/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[10K Collective Podcast]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14835</guid>
+
+					<description><![CDATA[<p>Building your e-commerce brand from the ground up is a rewarding experience. However, the road to explosive growth can feel long and winding. Expanding your product line demands significant capital. Reaching new audiences often requires substantial marketing investments. Time Stamp [00:00:54] Introduction and promotion of 10K Collective Mastermind[00:01:33] Overview of the episode and recap of [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/ready-to-be-your-own-boss-10-simple-steps-to-buying-an-e-commerce-business/">Ready to Be Your Own Boss? 10 Simple Steps to Buying an E-commerce Business</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/ready-to-be-your-own-boss-10-simple-steps-to-buying-an-e-commerce-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/Episode_02-10_steps_to_buying_an_e-commerce_business-auphonic.mp3" length="11752593" type="audio/mpeg" />
+
+			<itunes:subtitle>Building your e-commerce brand from the ground up is a rewarding experience. However, the road to explosive growth can feel long and winding. Expanding your product line demands significant capital. Reaching new audiences often requires substantial mar...</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+Building your e-commerce brand from the ground up is a rewarding experience. However, the road to explosive growth can feel long and winding. Expanding your product line demands significant capital. Reaching new audiences often requires substantial marketing investments.<br />
+<br />
+<br />
+<br />
+Time Stamp<br />
+<br />
+<br />
+<br />
+[00:00:54] Introduction and promotion of 10K Collective Mastermind[00:01:33] Overview of the episode and recap of previous episode[00:02:12] Steps 1-2: Decide and Define[00:02:54] Step 3: Finding deals[00:03:14] Step 4: Filter potential deals[00:04:02] Step 5: Meet the seller[00:05:19] Step 6: Analyze the business[00:05:52] Step 7: Offer and negotiate[00:06:10] Step 8: Finance the purchase[00:07:34] Step 9: Conduct due diligence[00:08:31] Step 10: Close the deal and plan next steps[00:09:45] Recap of the 10 steps and offer of assistance[00:11:55] Closing remarks and promotion of 10K Collective Uber Mastermind<br />
+<br />
+<br />
+<br />
+What if there was a way to achieve exponential growth with minimal capital outlay? Enter the exciting world of acquiring an established e-commerce business. This strategic move can propel your brand to new heights faster and more efficiently than building from scratch. But before diving in, it's crucial to assess your readiness for this exciting opportunity.<br />
+<br />
+<br />
+<br />
+Step 1: Self-Evaluation - Are You Cut Out to Be Your Own Boss (of Two Businesses)?<br />
+<br />
+<br />
+<br />
+Buying an established e-commerce business requires a significant commitment of time, energy, and resources. Honestly assess your capacity to manage the demands of two businesses.<br />
+<br />
+<br />
+<br />
+<br />
+* Time Commitment: Running two e-commerce businesses requires significant time investment. Are you prepared to take on the additional responsibility while potentially maintaining your existing brand?<br />
+<br />
+<br />
+<br />
+* Financial Resources: Beyond the purchase price, additional costs like due diligence, legal fees, and working capital for the new business may arise. Do you have the financial resources to cover these expenses?<br />
+<br />
+<br />
+<br />
+* Mental Fortitude: The acquisition process and business integration can be stressful. Are you mentally prepared to handle the challenges and potential learning curve involved?<br />
+<br />
+<br />
+<br />
+<br />
+If you can confidently answer yes to these questions, then buying an e-commerce business could be a strategic move to achieve your growth goals.<br />
+<br />
+<br />
+<br />
+Step 2: Defining Your Vision - Charting the Course for Your Acquisition<br />
+<br />
+<br />
+<br />
+Having established your readiness, it's time to define your vision for the future. This roadmap will guide your search for the ideal e-commerce business acquisition target.<br />
+<br />
+<br />
+<br />
+<br />
+* Financial Goals: What financial results are you hoping to achieve through this acquisition? Are you looking for significant revenue growth, increased profitability, or diversification into a new market segment?<br />
+<br />
+<br />
+<br />
+* Timeframe: Do you have a specific timeframe in mind for achieving your financial goals? This will influence the type of business you seek.<br />
+<br />
+<br />
+<br />
+* Target Market and Business Type: Do you want to stay within your existing niche and expand your product line, or venture into a completely new market segment? Analyze your strengths and identify complementary industries.<br />
+<br />
+<br />
+<br />
+<br />
+Financial Metrics: Once you have a broader vision, determine the key financial metrics you'll use to evaluate potential acquisitions. This might include annual revenue, profit margins, customer acquisition cost (CAC), and customer lifetime value (CLTV).<br />
+<br />
+<br />
+<br />
+Step 3: Finding Your Perfect Match: Unveiling the Ideal E-commerce Business<br />
+<br />
+<br />
+<br />
+With a clear vision in hand, it's time to embark on your search.]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>571</itunes:episode>
+		<podcast:episode>571</podcast:episode>
+		<itunes:title>Ready to Be Your Own Boss? 10 Simple Steps to Buying an E-commerce Business</itunes:title>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:15</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">14835</post-id>	</item>
+		<item>
+		<title>online marketing gurus</title>
+		<link>https://amazingfba.com/online-marketing-gurus-who-should-you-believe/</link>
+					<comments>https://amazingfba.com/online-marketing-gurus-who-should-you-believe/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey]]></dc:creator>
+		<pubDate>Tue, 28 May 2024 06:00:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[10K Collective Podcast]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14814</guid>
+
+					<description><![CDATA[<p>Online marketing gurus &#8211; who should you believe? Hey folks, time for some real talk today. I want to talk about internet marketing gurus. What does that mean? And should you believe what you hear on the internet or from a course or from any internet marketing or business coach? Stay tuned. Hey folks, Michael [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/online-marketing-gurus-who-should-you-believe/">Online marketing gurus &#8211; who should you believe?</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/online-marketing-gurus-who-should-you-believe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/Online_marketing_gurus-who_should_you_believe_.mp3" length="11820048" type="audio/mpeg" />
+
+			<itunes:subtitle>Online marketing gurus - who should you believe? Hey folks, time for some real talk today. I want to talk about internet marketing gurus. What does that mean? And should you believe what you hear on the internet or from a course or from any internet ma...</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+Online marketing gurus - who should you believe? Hey folks, time for some real talk today. I want to talk about internet marketing gurus. What does that mean? And should you believe what you hear on the internet or from a course or from any internet marketing or business coach? Stay tuned.<br />
+<br />
+<br />
+<br />
+Hey folks, Michael Veazey from Amazing FBA here.<br />
+<br />
+<br />
+<br />
+Are online marketing gurus the same as business consultants?<br />
+<br />
+<br />
+<br />
+Guess what? I'm Michael from Amazing FBA. That means I'm here to give you advice or thoughts or information about internet marketing, particularly selling on Amazon. And that is an interesting one because it brings up this concept of a guru. I get accused of being a guru occasionally by people and I feel if it's an accusation rather than something helpful.<br />
+<br />
+<br />
+<br />
+A guru passes on "Divine wisdom"<br />
+<br />
+<br />
+<br />
+My understanding of the word guru is it comes from the Hindu tradition and like other religious traditions there's a tradition of received wisdom that a person who becomes holy enough through meditation, prayer and other such things gets received wisdom directly from God or the spirit world or whatever.<br />
+<br />
+<br />
+<br />
+I'm not qualified to say whether that happens in religion, for all I know it does, but that is not what I'm saying I'm offering. I'm not that person. And anyone who does say they are that person, I think is going to be treated with some skepticism. But that is a mentality in itself that worries me. And let me explain.<br />
+<br />
+<br />
+<br />
+Who you follow as an online marketing guru is only one part of the equation<br />
+<br />
+<br />
+<br />
+The online marketing guru who you choose to follow as an authority of some kind, let's use that word as a more grown-up word, is an important choice.<br />
+<br />
+<br />
+<br />
+It's your responsibility to decide if the online marketing guru is worth following<br />
+<br />
+<br />
+<br />
+The first thing I would say is: it's your responsibility if you're going to follow somebody to do a bit of homework and feel whether they sound like they know what they're talking about and have they given consistently decent advice.<br />
+<br />
+<br />
+<br />
+Michael's background in online marketing and Amazon advising<br />
+<br />
+<br />
+<br />
+And there are ways to do that just to lay my cards on the table. I've been selling on Amazon since 2014. I've been coaching people one to one since 2016. Since 2015, I've been running a podcast. I've interviewed well north of 200 experts. And we've done probably close to a thousand episodes now, most of which have been expert interviews. We've had over a million Downloads. So there's some social proof there. <br />
+<br />
+<br />
+<br />
+Since 2016, I've coached over a hundred people who enter one of whom handful have gone on to create over a million dollars worth of sales between them.<br />
+<br />
+<br />
+<br />
+And then the mastermind since 2017 without people get to seven figure exit and what else triple their business and the COVID admittedly in three or four cases. And then one person got to eight figures in revenue.<br />
+<br />
+<br />
+<br />
+The online marketing gurus you follow are your decision<br />
+<br />
+<br />
+<br />
+Now that's about me. Is that enough for you? It's up to you to decide. All I can tell you is who I am, and then you decide if it's right for you.<br />
+<br />
+<br />
+<br />
+And I want to talk about not the gurus today, but you as the consumer of coaching or consulting, or me as a consumer of coaching and consulting, because I also follow other people.<br />
+<br />
+<br />
+<br />
+If you are watching the video, I'm going to give you a little visual here, because I think it can really help.<br />
+<br />
+<br />
+<br />
+The spectrum of belief (4 boxes)<br />
+<br />
+<br />
+<br />
+&nbsp;I want you to visualize, if you're not seeing the video four squares across from left to right,]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>569</itunes:episode>
+		<podcast:episode>569</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:19</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">14814</post-id>	</item>
+		<item>
+		<title>E-comerce business planning</title>
+		<link>https://amazingfba.com/seasonality-the-art-of-the-year-in-your-e-commerce-business/</link>
+					<comments>https://amazingfba.com/seasonality-the-art-of-the-year-in-your-e-commerce-business/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey]]></dc:creator>
+		<pubDate>Mon, 20 May 2024 05:00:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14798</guid>
+
+					<description><![CDATA[<p>Intro Let&#8217;s talk about rhythm, shall we? In your life. Now my background is a musician, and so I naturally think of rhythm. When I was teaching people and still conducting choirs evenings and weekends, I&#8217;m always banging on about rhythm. And what does that mean? Well, it&#8217;s really about having a shape to time, [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/seasonality-the-art-of-the-year-in-your-e-commerce-business/">Seasonality &#8211; the art of the year in your e-commerce business</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/seasonality-the-art-of-the-year-in-your-e-commerce-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/Seasonality_in_e-commerce_and_how_to_handle_it.mp3" length="10144715" type="audio/mpeg" />
+
+			<itunes:subtitle>Intro    Let&#039;s talk about rhythm, shall we? In your life. Now my background is a musician, and so I naturally think of rhythm. When I was teaching people and still conducting choirs evenings and weekends, I&#039;m always banging on about rhythm.</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+Intro<br />
+<br />
+<br />
+<br />
+Let's talk about rhythm, shall we? In your life. Now my background is a musician, and so I naturally think of rhythm. When I was teaching people and still conducting choirs evenings and weekends, I'm always banging on about rhythm. And what does that mean? Well, it's really about having a shape to time, if you will.<br />
+<br />
+<br />
+<br />
+And that is something that's very, very important for productivity in life and in business. So today, now that I'm surrounded by a beautiful garden here and talking about seasons and seasonality is very much on my mind. Let's discuss rhythm and how that affects your use of time as an organic way of using and managing your time. Stay tuned.<br />
+<br />
+<br />
+<br />
+Seasonality in Nature and E-commerce<br />
+<br />
+<br />
+<br />
+Hi, this is Michael Veazey, and today I'm coming to you from our lovely garden. I think it's lovely anyway in Hertfordshire. So about a year ago, in May 2023, I was sent up by my wife to go find ourselves somewhere more peaceful to live. We were in a flat in London, a bit noisy, very urban, not really relaxing. We wanted a house and a garden, and we've got them.<br />
+<br />
+<br />
+<br />
+The garden, of course, is a thing that really makes you think about seasonality. And today, I want to talk about rhythms in your business. We can start with seasonality and the overall shape of each year as a very, very good start.<br />
+<br />
+<br />
+<br />
+Now, it's not rocket science to say that quite a few businesses or ways of making a living have strong seasonality. So the two that I'm most familiar with, my old profession of teaching and making music (I still conduct choirs in the evenings and weekends and love doing so), and e-commerce both have very strong seasonality.<br />
+<br />
+<br />
+<br />
+Some jobs, I guess, you just grind along same old same old week to week and then have your couple of weeks off in the summer, and that's it. That is not the case for education. In education, my wife's still working very, very hard in the summer because lots of institutions have exams. So A-level students are having exams. My wife's off playing the piano for music colleges in London where people are playing very difficult music for their end-of-year exams. E-commerce is no different.<br />
+<br />
+<br />
+<br />
+Embracing Seasonal Rhythms<br />
+<br />
+<br />
+<br />
+In e-commerce, if you sell something that's giftable, you will find that it becomes crazy in Q4. In other words, November and December, just before Christmas or the holiday season if you wish to call it that. And of course, that changes everything about your year. The rhythm of your year, your week, and your day is really to some extent dictated by others.<br />
+<br />
+<br />
+<br />
+To the extent that you recognize that, you get in tune with your market and the way things operate in your industry, then you will find that things work better. If you try and fight it or just ignore it, that's one of the signs that things are wrong. One of the things that is really important is if you do have a strong Q4-centric business.<br />
+<br />
+<br />
+<br />
+By the way, a lot of people who are at an early stage or even pre-revenue entrepreneurs (I don't tend to work with those anymore) are obsessed with the idea that they can even out the sales, cash flow, and inventory and have a non-seasonal type business. But the truth is that the businesses that I know that do really well embrace the seasonality and roll with it. They understand that that is the nature of the market they're in.<br />
+<br />
+<br />
+<br />
+Planning for Seasonality<br />
+<br />
+<br />
+<br />
+Rather than trying to go in three and four different markets that magically balance each other out in theory (one could have that but in practice I don't see that), I see people who successfully manage the seasonality. So, I think you have to roll with the rhythms of your industry, your marketplace,]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>564</itunes:episode>
+		<podcast:episode>564</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:34</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">14798</post-id>	</item>
+		<item>
+		<title>Unlocking Trademark Registration Process for Amazon Sellers</title>
+		<link>https://amazingfba.com/trademark-registration-process-amazon-sellers/</link>
+					<comments>https://amazingfba.com/trademark-registration-process-amazon-sellers/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Veazey]]></dc:creator>
+		<pubDate>Wed, 08 May 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[General Business]]></category>
+		<category><![CDATA[10K Collective Podcast]]></category>
+		<category><![CDATA[Amazing FBA Podcast]]></category>
+		<guid isPermaLink="false">https://amazingfba.com/?p=14754</guid>
+
+					<description><![CDATA[<p>Building a successful brand on Amazon requires strategic planning. Trademark registration is a crucial step, but the process can seem daunting. This guide breaks down everything you need to know into easy-to-understand steps. [00:00] &#8211; You really need to know what you&#8217;re going to sell[00:56] &#8211; Introduction of guest Anita Ma and topic of trademarks[01:21] [&#8230;]</p>
+<p>The post <a href="https://amazingfba.com/trademark-registration-process-amazon-sellers/">Unlocking Trademark Registration Process for Amazon Sellers</a> appeared first on <a href="https://amazingfba.com">Amazing FBA - Grow your 7-Figure Amazon Business</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://amazingfba.com/trademark-registration-process-amazon-sellers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://media.blubrry.com/amazingfba/content.blubrry.com/amazingfba/AM_Episode_01-auphonic.mp3" length="39933909" type="audio/mpeg" />
+
+			<itunes:subtitle>Building a successful brand on Amazon requires strategic planning. Trademark registration is a crucial step, but the process can seem daunting. This guide breaks down everything you need to know into easy-to-understand steps.    </itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+Building a successful brand on Amazon requires strategic planning. Trademark registration is a crucial step, but the process can seem daunting. This guide breaks down everything you need to know into easy-to-understand steps.<br />
+<br />
+<br />
+<br />
+[00:00] - You really need to know what you're going to sell[00:56] - Introduction of guest Anita Ma and topic of trademarks[01:21] - Explanation of what a registered trademark agent is[02:12] - Anita's background and founding of Trademark Angel[02:50] - Defining what a trademark is[04:13] - Why trademarks exist and legal protection they provide[05:51] - Benefits of having a registered trademark[07:03] - Importance of trademarks for e-commerce and online sellers[08:16] - Distinction between having a trademark and registering one<br />
+<br />
+<br />
+<br />
+What is a Trademark and Why Do They Matter for Amazon Sellers?<br />
+<br />
+<br />
+<br />
+A trademark is a symbol, word, or phrase that identifies the source of a product or service. It acts like a lighthouse, guiding customers to your brand and distinguishing you from competitors. Trademarks offer several benefits for Amazon sellers:<br />
+<br />
+<br />
+<br />
+<br />
+* Exclusivity: A registered trademark grants you a legal monopoly for your specific product or service category for ten years. This deters competitors from using your brand name or logo.<br />
+<br />
+<br />
+<br />
+* Increased Brand Value: A strong trademark strengthens your brand identity, fostering customer trust and loyalty. Over time, your trademark becomes an invaluable asset, increasing your business value.<br />
+<br />
+<br />
+<br />
+* Brand Registry Access: Trademark registration is a prerequisite for enrolling in Amazon's Brand Registry program. This program unlocks powerful tools to protect your brand from counterfeiters and hijackers, improve product listings, and gain valuable customer insights.<br />
+<br />
+<br />
+<br />
+<br />
+While common law rights exist for unregistered trademarks, enforcing them is challenging and expensive. Registration provides concrete evidence of ownership and simplifies the process of protecting your brand.<br />
+<br />
+<br />
+<br />
+Are You Protected by Your Company Name?<br />
+<br />
+<br />
+<br />
+Many entrepreneurs mistakenly believe incorporating a business automatically protects their brand name. However, trademarks arise from using a specific brand name for a particular product or service in the marketplace.<br />
+<br />
+<br />
+<br />
+When Should You File a Trademark?<br />
+<br />
+<br />
+<br />
+Before filing a trademark application, it's crucial to have a clear business plan and conduct thorough market research. Define your product categories precisely. A vague trademark, like "Kitchen Essentials," won't offer sufficient protection. You can't file an "umbrella trademark" to cover a broad range of unrelated products.<br />
+<br />
+<br />
+<br />
+The ideal scenario is to file a trademark application before launching your product. However, you don't necessarily need a product already on the market.<br />
+<br />
+<br />
+<br />
+Stay tuned for the next episode, where we'll delve into the order of events for trademark registration, market research techniques, and trademark availability checks!<br />]]></itunes:summary>
+		<itunes:author>Michael Veazey</itunes:author>
+		<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>560</itunes:episode>
+		<podcast:episode>560</podcast:episode>
+		<itunes:title>Unlocking Trademark Registration Process for Amazon Sellers</itunes:title>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>41:36</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">14754</post-id>	</item>
+	</channel>
+</rss>

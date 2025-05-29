@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>$10K Collective- Booking Online Calls - Amazing FBA - Grow your 7-Figure Amazon Business</title>
+	<atom:link href="https://amazingfba.com/10k/feed/10k/" rel="self" type="application/rss+xml" />
+	<link>https://amazingfba.com/online__trashed/10k/</link>
+	<description>Amazon Coach &#38; Mastermind Convenor</description>
+	<lastBuildDate>Mon, 13 Jan 2025 15:03:54 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>Blubrry PowerPress/11.9.11</generator>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Do you sell private label or custom products on Amazon UK, USA or Europe? Or are you gearing up to do it? &lt;br /&gt;
+&lt;br /&gt;
+If you are struggling to grow sales, seeing profits erode and feel a long way from a sellable valuable business, we can help. If you&#039;re already killing it, why not grow faster and make even more cash? &lt;br /&gt;
+Either way, you&#039;re in the right place. &lt;br /&gt;
+&lt;br /&gt;
+Our experts answer these questions and more - experts like Greg Mercer of Jungle Scout, Will Tjernlund, Manuel Becvar, Chris Green, Kevin King, and many many more. &lt;br /&gt;
+&lt;br /&gt;
+Whether you are trying to get Amazon product research right; help sourcing from China; optimizing Amazon listings; dealing with  Amazon PPC (aka Amazon ads) - we&#039;ve got you covered!&lt;br /&gt;
+&lt;br /&gt;
+If you&#039;re UK based and you want to sell in UK or USA; and if you&#039;re US based and you&#039;re curious about - or selling in - UK or Europe, you can&#039;t afford to miss the detailed insights you&#039;ll get.</itunes:summary>
+	<itunes:author>Michael Veazey</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Michael Veazey</itunes:name>
+	</itunes:owner>
+	<copyright>&#xA9;Michael Veazey 2015-2022</copyright>
+	<podcast:license>&#xA9;Michael Veazey 2015-2022</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>Amazing FBA Amazon and ECommerce Podcast, for Amazon Private Label Sellers, Shopify, Magento or Woocommerce business owners, and other e-commerce sellers and digital entrepreneurs.</itunes:subtitle>
+	<image>
+		<title>$10K Collective- Booking Online Calls - Amazing FBA - Grow your 7-Figure Amazon Business</title>
+		<url>https://amazingfba.com/wp-content/uploads/2022/07/Amazing-FBA-PODCAST-ARTWORK-redesign-v4.2-with-10k-text-Amazing-in-Abril-FBA-in-Abril-Blue-words.jpg</url>
+		<link>https://amazingfba.com/blog/</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+	<googleplay:category text="Business"/>
+	<itunes:category text="Business">
+		<itunes:category text="Marketing" />
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Entrepreneurship" />
+	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>London, England</rawvoice:location>
+	<podcast:location>London, England</podcast:location>
+	<podcast:podping usesPodping="true" />
+	<rawvoice:subscribe feed="https://amazingfba.com/10k/feed/10k/" itunes="http://itunes.apple.com/ug/podcast/amazing-fba/id1030237683" spotify="https://open.spotify.com/show/32Cryk51sxVlF03B38UeoJ" amazon_music="https://music.amazon.co.uk/podcasts/3237ef11-0180-45a2-adff-2b4ab89267b5/amazing-fba-amazon-and-ecommerce-podcast-for-amazon-private-label-sellers-shopify-magento-or-woocommerce-business-owners-and-other-e-commerce-sellers-and-digital-entrepreneurs"></rawvoice:subscribe>
+	<item>
+		<title>$10K Collective- Booking Online Calls</title>
+		<link>https://amazingfba.com/10k/</link>
+		<pubDate>Fri, 02 Feb 2018 19:06:14 +0000</pubDate>
+		<guid isPermaLink="false">http://amazingfba.com/?page_id=3865</guid>
+		<description></description>
+				</item>
+</channel>
+</rss>
